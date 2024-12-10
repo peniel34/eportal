@@ -1,0 +1,8 @@
+ul {
+	background: black; width: 2000px;
+}
+ul li {
+	display: inline; padding: 90px;
+}
+ul li a{text-decoration: none; color: greenyellow; padding-inline: 50px}
+ul li a:hover{background: bisque; color: blue;}

@@ -1,0 +1,10 @@
+form button {
+	background: blue; width: 300px; border-color: none; 
+}
+
+form button{text-decoration: none; color: yellow; padding-inline: 50px}
+form button:hover{background: navajowhite; color: black;}
+
+
+
+
